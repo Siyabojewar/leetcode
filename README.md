@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
+| [2556-convert-the-temperature](https://github.com/Siyabojewar/leetcode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
 | ------- |
