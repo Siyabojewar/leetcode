@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
