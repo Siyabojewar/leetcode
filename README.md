@@ -6,6 +6,7 @@
 | ------- |
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siyabojewar/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/Siyabojewar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Siyabojewar/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Siyabojewar/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
