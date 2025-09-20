@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Matrix
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/Siyabojewar/leetcode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
