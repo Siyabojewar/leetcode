@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
