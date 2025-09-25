@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
