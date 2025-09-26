@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Number Theory
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Siyabojewar/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
