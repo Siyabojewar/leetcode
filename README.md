@@ -28,6 +28,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Siyabojewar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
