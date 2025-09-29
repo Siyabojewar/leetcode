@@ -22,6 +22,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Siyabojewar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Siyabojewar/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siyabojewar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -30,6 +31,7 @@
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Siyabojewar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
