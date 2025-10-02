@@ -14,6 +14,7 @@
 | [2383-add-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Siyabojewar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Siyabojewar/leetcode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/Siyabojewar/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Siyabojewar/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
 |  |
