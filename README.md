@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
