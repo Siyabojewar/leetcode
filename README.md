@@ -40,12 +40,14 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Siyabojewar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Siyabojewar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/Siyabojewar/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/Siyabojewar/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
