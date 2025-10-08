@@ -42,6 +42,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Siyabojewar/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Siyabojewar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Siyabojewar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Siyabojewar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
 | ------- |
