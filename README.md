@@ -12,6 +12,7 @@
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siyabojewar/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Siyabojewar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Siyabojewar/leetcode/tree/master/2556-convert-the-temperature) |
@@ -42,6 +43,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Siyabojewar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Siyabojewar/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
@@ -128,4 +132,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
