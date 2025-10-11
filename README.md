@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Siyabojewar/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Siyabojewar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Siyabojewar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Siyabojewar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
