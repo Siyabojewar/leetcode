@@ -13,6 +13,7 @@
 | [0507-perfect-number](https://github.com/Siyabojewar/leetcode/tree/master/0507-perfect-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Siyabojewar/leetcode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Siyabojewar/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/Siyabojewar/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Siyabojewar/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/Siyabojewar/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1610-xor-operation-in-an-array](https://github.com/Siyabojewar/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
