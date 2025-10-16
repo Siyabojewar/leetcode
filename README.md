@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Siyabojewar/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Siyabojewar/leetcode/tree/master/0326-power-of-three) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Siyabojewar/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Number Theory
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siyabojewar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Siyabojewar/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
