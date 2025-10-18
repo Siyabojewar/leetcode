@@ -22,6 +22,7 @@
 | [2752-sum-multiples](https://github.com/Siyabojewar/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Siyabojewar/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siyabojewar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siyabojewar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Siyabojewar/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -57,6 +58,7 @@
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Siyabojewar/leetcode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siyabojewar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siyabojewar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siyabojewar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siyabojewar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Brainteaser
 |  |
 | ------- |
