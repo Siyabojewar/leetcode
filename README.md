@@ -37,6 +37,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Siyabojewar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Siyabojewar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/Siyabojewar/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3811-reverse-degree-of-a-string) |
