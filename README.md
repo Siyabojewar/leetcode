@@ -17,6 +17,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Siyabojewar/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/Siyabojewar/leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/Siyabojewar/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Siyabojewar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Siyabojewar/leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/Siyabojewar/leetcode/tree/master/2752-sum-multiples) |
@@ -92,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Siyabojewar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Siyabojewar/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siyabojewar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2481-strictly-palindromic-number](https://github.com/Siyabojewar/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Siyabojewar/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/Siyabojewar/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
