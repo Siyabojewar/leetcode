@@ -23,6 +23,7 @@
 | [2752-sum-multiples](https://github.com/Siyabojewar/leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Siyabojewar/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Siyabojewar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/Siyabojewar/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siyabojewar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Siyabojewar/leetcode/tree/master/3830-find-closest-person) |
 ## String
@@ -41,6 +42,7 @@
 | [1797-goal-parser-interpretation](https://github.com/Siyabojewar/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/Siyabojewar/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
