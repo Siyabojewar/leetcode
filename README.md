@@ -44,6 +44,7 @@
 | [3379-score-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/Siyabojewar/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Siyabojewar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Siyabojewar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Siyabojewar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siyabojewar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siyabojewar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Siyabojewar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
