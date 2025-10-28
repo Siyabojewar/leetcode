@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Siyabojewar/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Siyabojewar/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Siyabojewar/leetcode/tree/master/0292-nim-game) |
