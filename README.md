@@ -62,6 +62,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Siyabojewar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Siyabojewar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Siyabojewar/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Siyabojewar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Siyabojewar/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -144,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Siyabojewar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Siyabojewar/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Siyabojewar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3811-reverse-degree-of-a-string](https://github.com/Siyabojewar/leetcode/tree/master/3811-reverse-degree-of-a-string) |
