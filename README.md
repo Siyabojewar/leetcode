@@ -55,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Siyabojewar/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Siyabojewar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1137-height-checker](https://github.com/Siyabojewar/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Siyabojewar/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -90,6 +91,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Siyabojewar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Siyabojewar/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Siyabojewar/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Siyabojewar/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siyabojewar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Siyabojewar/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Siyabojewar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Siyabojewar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Siyabojewar/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Siyabojewar/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -193,5 +196,10 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Siyabojewar/leetcode/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Siyabojewar/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Siyabojewar/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
